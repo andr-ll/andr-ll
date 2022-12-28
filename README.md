@@ -9,6 +9,7 @@ My name is Andrei, I'm a backend developer.
   <img height="30" src="./logos/javascript.png">
   <img height="30" src="./logos/go.svg">
   <img height="30" src="./logos/sql.png">
+  <img height="30" src="./logos/bash.jpg">
 </div>
 
 
