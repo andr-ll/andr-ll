@@ -35,3 +35,5 @@ My name is Andrei, I'm a backend developer.
 📝 Favorite quote: "Perfect is the enemy of good".
 
 <img width="300" src="./logos/matrix.gif">
+
+<img width="305" src="https://profile-counter.glitch.me/andr-ii/count.svg">
