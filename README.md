@@ -12,7 +12,6 @@ My name is Andrei, I'm a backend developer.
   <img height="30" src="./logos/bash.jpg">
 </div>
 
-
 <br />
 
 🛠️ Tooling:
@@ -27,8 +26,6 @@ My name is Andrei, I'm a backend developer.
 </div>
 
 <br />
-
-💡 Interested in performance optimizations.
 
 🥁 Fun fact: I've been playing drums for 17 years.
 
