@@ -27,8 +27,6 @@ My name is Andrei, I'm a backend developer.
 
 <br />
 
-🥁 Fun fact: I've been playing drums for 17 years.
-
 📝 Favorite quote: "Perfect is the enemy of good".
 
 <img width="300" src="./logos/matrix.gif">
