@@ -9,11 +9,12 @@ My name is Andrei, I'm a backend developer.
 🏄🏻‍♂️ Languages:
 
 <div>
-  <img height="30" src="./logos/typescript.png">
-  <img height="30" src="./logos/javascript.png">
-  <img height="30" src="./logos/go.svg">
-  <img height="30" src="./logos/sql.png">
-  <img height="30" src="./logos/bash.jpg">
+  <img height="40" src="./logos/typescript.png">
+  <img height="40" src="./logos/javascript.png">
+  <img height="40" src="./logos/go.svg">
+  <img height="40" src="./logos/sql.png">
+  <img height="40" src="./logos/bash.jpg">
+  <img width="40" src="./logos/graphql.png">
 </div>
 
 <br />
@@ -21,12 +22,21 @@ My name is Andrei, I'm a backend developer.
 🛠️ Tooling:
 
 <div>
-  <img height="30" src="./logos/nodejs.png">
-  <img height="30" src="./logos/docker.png">
-  <img height="30" src="./logos/postgresql.png">
-  <img height="30" src="./logos/linux.png">
-  <img height="30" src="./logos/bash.png">
-  <img height="30" src="./logos/k6.png">
+  <img width="40" src="./logos/vscode.png">
+  <img width="40" src="./logos/nodejs.png">
+  <img width="40" src="./logos/docker.png">
+  <img width="40" src="./logos/bash.png">
+  <img width="40" src="./logos/github.png">
+  <img width="40" src="./logos/postgresql.png">
+</div>
+<br/>
+<div>
+  <img width="40" src="./logos/mongodb.png">
+  <img width="40" src="./logos/linux.png">
+  <img width="40" src="./logos/github_actions.png">
+  <img width="40" src="./logos/prettier.png">
+  <img width="40" src="./logos/eslint.png">
+  <img width="40" src="./logos/k6.png">
 </div>
 
 <br />
