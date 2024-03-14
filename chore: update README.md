@@ -48,7 +48,7 @@ My name is Andrei, I'm a backend developer.
 <img width="305" src="https://profile-counter.glitch.me/andr-ii/count.svg">
 
 [gh-img]: https://img.shields.io/github/followers/andr-ii?label=follow&style=social
-[gh-url]: https://github.com/andr-ii
+[gh-url]: https://github.com/andr-ll
 [tg-img]: https://img.shields.io/badge/%20-%20-%20?logo=telegram&label=telegram&style=social
 [tg-url]: https://t.me/andr_ll
 [gmail-img]: https://img.shields.io/badge/%20-%20-%20?logo=gmail&label=email&style=social
